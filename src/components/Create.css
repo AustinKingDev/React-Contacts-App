@@ -1,0 +1,33 @@
+.refresh-button {
+    background-color:tomato;
+    border: none;
+    border-radius: 15%;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.submit-button {
+    background-color:deepskyblue;
+    border-radius: 15%;
+    border: none;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.container {
+    background-color: burlywood;
+    height: max-content;
+    width: 500px;
+    border-radius: 1%;
+}
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 30px;
+}
+
+label {
+    font-family:monospace
+}
